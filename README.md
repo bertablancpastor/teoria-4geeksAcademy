@@ -58,11 +58,11 @@
 <p>Lenguaje: Terminal</p>
 
 ### Día 6 - 19MAYO2023 📆
-<p>El quinto dia de clase, vimos github i git</p>
+<p>El quinto dia de clase, vimos git && github</p>
 **Project**
-<p>[Terminal Challange](https://github.com/bertablancpastor/exercice-terminal-challenge)</p>
-<p>Tecnologias: visual studio code</p>
-<p>Lenguaje: Terminal</p>
+<p>[Learn in Public](https://github.com/bertablancpastor/bertablancpastor-4Geeks-Academy)</p>
+<p>Tecnologias: visual studio code con codespace</p>
+<p>Lenguaje: Git && GitHub</p>
 
 
 
