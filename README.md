@@ -22,6 +22,7 @@
 
 ### Día 3 - 12MAYO2023 📆
 <p>El tercer dia de classe seguimos con el proyecto de InstagramFeedBootstrap y ya lo acabamos ese mismo día.</p>
+<hr/>
 
 ## SEMANA-2
 ### Día 4 - 15MAYO2023 📆
@@ -45,7 +46,7 @@
 <p>[Learn in public](https://github.com/bertablancpastor/bertablancpastor-4Geeks-Academy)</p>
 <p>Tecnologias: YML</p>
 <p>Lenguaje: html </p>
-
+<hr/>
 
 ## SEMANA-3
 ### Día 7 - 22MAYO2023 📆
@@ -65,12 +66,65 @@
 <p>Lenguajen de programación: JavaScript</p>
 
 ### Día 9 - 26MAYO2023 📆
-<p>El </p>
+<p>El noveno día de clase, seguimos con el lenguaje de programación JavaScript, introducción de las Arrays y las Funciones</p>
 **Project**
-<p>[Learn in Public](https://github.com/bertablancpastor/bertablancpastor-4Geeks-Academy)</p>
+<p>[Excuses Generator](https://github.com/bertablancpastor/bertablancpastor-excuse-generator)</p>
 <p>Tecnologias: visual studio code con codespace</p>
-<p>Lenguaje: Git && GitHub</p>
+<p>Lenguaje de programacion: JavaScript && Git && GitHub</p>
+<p>Lenguaje etiqueteas: HTML5</p>
+<p>Framework: Bootstrap</p>
+<hr/>
 
+## SEMANA-4
+### Día 10 - 22MAYO2023 📆
+<p>El decimos día de clase, vimos las ramas y el merge</p>
+**Project**
+<p>[Collaborative Html Website](https://github.com/bertablancpastor/bertablancpastor-formulario-html5)</p>
+<p>Tecnologias: visual studio code, git && github</p>
+<p>Lenguaje etiqueta && selectores: html css</p>
+<p>Framework: [Bootstrap](https://getbootstrap.com/)</p>
+
+### Día 11 - 24MAYO2023 📆
+<p>Empezamos con el lenguaje JavaScript</p>
+<p>Datos primitivos | Datos tipo objetos | Variables | Operadores | Condicionales: IF</p>
+**Project**
+<p>[javascript-beginner-exercicies-tutorail](https://github.com/4GeeksAcademy/javascript-beginner-exercises-tutorial)</p>
+<p>Tecnologias: visual studio code</p>
+<p>Lenguajen de programación: JavaScript</p>
+
+### Día 12 - 26MAYO2023 📆
+<p>Seguimos con el lenguaje de programación JavaScript, introducción de las Arrays y las Funciones</p>
+**Project**
+<p>[Excuses Generator](https://github.com/bertablancpastor/bertablancpastor-excuse-generator)</p>
+<p>Tecnologias: visual studio code con codespace</p>
+<p>Lenguaje de programacion: JavaScript && Git && GitHub</p>
+<p>Lenguaje etiqueteas: HTML5</p>
+<p>Framework: Bootstrap</p>
+<hr/>
+
+## SEMANA-5
+### Día 13 - 29MAYO2023 📆
+<p>Durante este día hemos visto los difrentes metodos de los Arrays</p>
+**Project**
+<p>[Domain Name Generator](https://github.com/bertablancpastor/bertablancpastor-excuse-domain-generator)</p>
+<p>Tecnologias: visual studio code, git && github</p>
+<p>Lenguaje etiqueta && selectores: html css</p>
+<p>Lenguaje de programación: JavaScript</p>
+<p>Framework: [Bootstrap](https://getbootstrap.com/)</p>
+
+### Día 14 - 31MAYO2023 📆
+<p>Este días nos hemos centrado en las buenas practicas cuando se programa</p>
+<p>[Estandares y lineamientos de codigo](https://4geeks.com/es/syllabus/spain-fs-pt-43/read/coding-standards-guidelines)</p>
+<p>[¿Qué es la legibilidad del código y cómo mejorarla?](https://4geeks.com/es/syllabus/spain-fs-pt-43/read/what-is-and-how-to-improve-code-readability)</p>
+
+### Día 15 - 02JUNIO2023 📆
+<p></p>
+**Project**
+<p>[Excuses Generator](https://github.com/bertablancpastor/bertablancpastor-excuse-generator)</p>
+<p>Tecnologias: visual studio code con codespace</p>
+<p>Lenguaje de programacion: JavaScript && Git && GitHub</p>
+<p>Lenguaje etiqueteas: HTML5</p>
+<p>Framework: Bootstrap</p>
 
 
 
